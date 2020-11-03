@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "VIKINGS sword",
+      "type":"Sword",
+      "picture": "../images/sword pic.jpg",
+      "price": "150"
+    },
+    {
+      "id": 2,
+      "name": "Pirates helmet",
+      "type":"Helmet",
+      "picture": "../images/helmet pic.png",
+      "price": "200"
+    },
+    {
+        "id": 3,
+        "name":"Israeli shield",
+        "type":"Shield",
+        "picture":"../images/shield pic.jpg",
+        "price": "250"
+      },
+      {
+        "id": 4,
+        "name":"Arabic helmet",
+        "type":"Helmet",
+        "picture":"../images/shield2 pic.jpg",
+        "price": "400"
+      }
+]

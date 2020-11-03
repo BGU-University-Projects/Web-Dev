@@ -1,0 +1,112 @@
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
+
+}
+p{
+  color: white;
+  font-family: Comic Sans MS;
+  position: absolute;
+}
+
+.search {
+  left: 200px;
+  top: 150px;
+}
+.filters {
+  left: 200px;
+  top: 200px;
+}
+.all {
+  left: 200px;
+  top: 400px;
+}
+
+.submit{
+  color: white;
+  font-family: Comic Sans MS;
+  position: absolute;
+  background-color: #282c34;
+  left: 530px;
+  top: 160px;
+}
+
+.serachInput{
+  color: white;
+  font-family: Comic Sans MS;
+  position: absolute;
+  background-color: #282c34;
+
+  position: absolute;
+  left: 325px;
+  top: 160px;
+}
+
+.App-logo {
+  /*background-color: yellow;*/
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  height: 20vmin;
+  pointer-events: none;
+  animation: App-logo-spin infinite 20s linear;
+}
+
+.App-header {
+  top: 0px;
+  /*min-height: 100vh;*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  top: 0px;
+}
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+li{
+  COLOR:white;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  COLOR:white;
+
+}
+
+tr:hover 
+{background-color:#2e1aa1;
+  COLOR:white;
+}
